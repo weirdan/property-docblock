@@ -1,0 +1,17 @@
+{
+    "name": "weirdan/property-docblock",
+    "authors": [
+        {
+            "name": "Bruce Weirdan",
+            "email": "weirdan@gmail.com"
+        }
+    ],
+    "autoload": {
+	    "psr-4": {
+		    "Weirdan\\PropertyDocblock\\": "src"
+	    }
+    },
+    "require-dev": {
+        "vimeo/psalm": "dev-master"
+    }
+}
